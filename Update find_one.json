@@ -1,0 +1,44 @@
+{
+  "id": 2145,
+  "name": "Abner Ramirez",
+  "account": {
+    "id": 2254,
+    "number": "3711-1",
+    "agency": "1137",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 2077,
+    "number": "**** **** **** 7131",
+    "limit": 1000
+  },
+  "features": [],
+  "news": [
+    {
+      "id": 3947,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista conosco e alcance seus objetivos financeiros com segurança e sucesso!"
+    },
+    {
+      "id": 3948,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Mais retorno, menos risco. Invista com o Santander!"
+    },
+    {
+      "id": 3949,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista com segurança e rentabilidade no Santander!"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
