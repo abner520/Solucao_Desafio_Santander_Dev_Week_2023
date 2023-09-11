@@ -1,0 +1,64 @@
+{
+  "id": 2146,
+  "name": "Teresa Nascimento",
+  "account": {
+    "id": 2255,
+    "number": "3714-4",
+    "agency": "1437",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 2078,
+    "number": "**** **** **** 7134",
+    "limit": 1000
+  },
+  "features": [],
+  "news": [
+    {
+      "id": 3950,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Aproveite as vantagens de investir com segurança no mercado financeiro pelo Santander!"
+    },
+    {
+      "id": 3951,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista com segurança e rentabilidade no Santander."
+    },
+    {
+      "id": 3952,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista com segurança e rentabilidade no Santander!"
+    }
+  ]
+}
+
+{
+  "id": 2147,
+  "name": "Geovania King",
+  "account": {
+    "id": 2256,
+    "number": "3733-3",
+    "agency": "3337",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 2079,
+    "number": "**** **** **** 3337",
+    "limit": 1000
+  },
+  "features": [],
+  "news": [
+    {
+      "id": 3953,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista com o Banco Santander x e alcance resultados financeiros consistentes. #OportunidadesDeInvestimento"
+    },
+    {
+      "id": 3954,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista e aproveite os benefícios! #BancoSantander"
+    }
+  ]
+}
